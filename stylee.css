@@ -1,8 +1,16 @@
-.hr{
-    border-radius: 20px;
-    background-color: red;
+body{
+    margin: 0px;
+    pading: 0px;
+    background: url('backg.jpg')
 }
 
-.p{
-    text-shadow: 4cm;
+.left {
+    border: 27px solid black;
+}
+.right{
+
+    border: 2px solid black;
+}
+.mid{
+    border: 2px solid black;
 }
